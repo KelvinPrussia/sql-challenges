@@ -2,6 +2,9 @@
 
 This is a series of challenges designed to train the use of SQL.
 
+At the end of the day, [submit your code
+here](https://airtable.com/shrd45T6i2fVdBTXv?prefill_Item=1997_sql01).
+
 ## Quickstart
 
 ```shell
